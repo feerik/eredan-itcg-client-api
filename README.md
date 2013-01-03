@@ -9,7 +9,7 @@ What is Eredan iTCG?
 [Eredan iTCG](http://itcg.eredan.com "Eredan iTCG") is an online Trading Card Game from [Feerik](http://www.feerik.com/ "Feerik").
 The game contains several thousand cards to collect and play with. The REST API provides a conveninent way to read and explore the cards database.
 
-***Eredan iTCG** and **Feerik** are registered trademarks from Feerik SAS.*
+_**Eredan iTCG** and **Feerik** are registered trademarks from Feerik SAS._
 
 Where can I find some documentation about this REST API?
 --------------------------------------------------------
