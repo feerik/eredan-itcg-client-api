@@ -11,7 +11,7 @@ The game contains several thousand cards to collect and play with. The REST API 
 
 _**Eredan iTCG** and **Feerik** are registered trademarks from Feerik SAS._
 
-Where can I find some documentation about this REST API?
+Where can I find some documentation about the REST API?
 --------------------------------------------------------
 
 The REST API documentation is hosted [here](http://api.itcg.eredan.com/docs/ "Documentation").
