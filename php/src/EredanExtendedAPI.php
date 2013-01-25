@@ -150,7 +150,7 @@ class EredanExtendedAPI extends EredanBaseAPI {
 			else
 				$separator = ',';
 
-			$str = ($filter != $connection) ? '/%1$s/%2$s' '/%2$s';
+			$str = ($filter != $connection) ? '/%1$s/%2$s' : '/%2$s';
 			$connections_str .= sprintf($str, $filter, implode($separator, $values['list']));
 		}
 
