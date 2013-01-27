@@ -74,7 +74,7 @@ class EredanExtendedAPI extends EredanBaseAPI {
 		$query_params = empty($params['query_params']) ? array() : $params['query_params'];
 		$filters = empty($params['filters']) ? array() : $params['filters'];
 
-		$connections_str = $this->buildFilters($connection, $filters);
+		$connections_str = $this->buildFilters($filters, $connection);
 		
 		$res = $this->api($connection.$connections_str, $query_params, $http_method);
 		$list = array();
